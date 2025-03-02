@@ -1,2 +1,1 @@
-# BBM104
-Mustafa Emir Tezcan's BBM104 course repository.
+# BBM104 course repository with the Instruction PDF, sample file IO, assets, and codes.
